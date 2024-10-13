@@ -26,7 +26,7 @@ items:
     kind: page
     children: []
   - title: Cours de jardinage biologique gratuits
-    target: "/lassociation/cours-de-jardinage-biologique-gratuits/"
+    target: "/lassociation/cours-de-jardinage-biologique/"
     kind: page
     children: []
   - title: Grainothèque
