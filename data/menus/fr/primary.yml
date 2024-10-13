@@ -41,4 +41,8 @@ items:
     target: "/lassociation/visite-du-jardin/"
     kind: page
     children: []
+- title: Soutenir
+  target: "/soutenir/"
+  kind: page
+  children: []
 
