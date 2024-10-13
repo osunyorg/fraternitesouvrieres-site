@@ -85,17 +85,42 @@ contents:
   - kind: block
     template: pages
     title: >-
-      
+      L'association
     ranks:
-      self: false
+      self: 2
+      children: 3
     data:
+      page:
+        path: "/lassociation/"
+        slug: "lassociation"
+        file: "pages/lassociation/_index.html"
       options:
         image: true
         main_summary: true
         summary: true
 
-      layout: grid
+      layout: list
       pages:
+        - path: "/lassociation/presentation/"
+          slug: "presentation"
+          file: "pages/lassociation/presentation/_index.html"
+          external: false
+        - path: "/lassociation/cours-de-jardinage-biologique-gratuits/"
+          slug: "cours-de-jardinage-biologique-gratuits"
+          file: "pages/lassociation/cours-de-jardinage-biologique-gratuits/_index.html"
+          external: false
+        - path: "/lassociation/grainotheque/"
+          slug: "grainotheque"
+          file: "pages/lassociation/grainotheque/_index.html"
+          external: false
+        - path: "/lassociation/permanences-hebdomadaires/"
+          slug: "permanences-hebdomadaires"
+          file: "pages/lassociation/permanences-hebdomadaires/_index.html"
+          external: false
+        - path: "/lassociation/visite-du-jardin/"
+          slug: "visite-du-jardin"
+          file: "pages/lassociation/visite-du-jardin/_index.html"
+          external: false
 
 
 
