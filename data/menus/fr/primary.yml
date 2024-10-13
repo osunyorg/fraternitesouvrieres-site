@@ -33,4 +33,8 @@ items:
     target: "/lassociation/grainotheque/"
     kind: page
     children: []
+  - title: Visite du jardin
+    target: "/lassociation/visite-du-jardin/"
+    kind: page
+    children: []
 
