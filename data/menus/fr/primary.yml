@@ -25,4 +25,8 @@ items:
     target: "/lassociation/presentation/"
     kind: page
     children: []
+  - title: Cours de jardinage biologique gratuits
+    target: "/lassociation/cours-de-jardinage-biologique-gratuits/"
+    kind: page
+    children: []
 
