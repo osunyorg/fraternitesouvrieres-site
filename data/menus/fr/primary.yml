@@ -5,6 +5,7 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: L'association
   target: "/lassociation/"
   kind: page
@@ -13,24 +14,31 @@ items:
     target: "/lassociation/presentation/"
     kind: page
     children: []
+    file: content/fr/pages/lassociation/presentation/_index.html
   - title: Cours de jardinage biologique
     target: "/lassociation/cours-de-jardinage-biologique/"
     kind: page
     children: []
+    file: content/fr/pages/lassociation/cours-de-jardinage-biologique/_index.html
   - title: Grainothèque
     target: "/lassociation/grainotheque/"
     kind: page
     children: []
+    file: content/fr/pages/lassociation/grainotheque/_index.html
   - title: Permanences hebdomadaires
     target: "/lassociation/permanences-hebdomadaires/"
     kind: page
     children: []
+    file: content/fr/pages/lassociation/permanences-hebdomadaires/_index.html
   - title: Visite du jardin
     target: "/lassociation/visite-du-jardin/"
     kind: page
     children: []
+    file: content/fr/pages/lassociation/visite-du-jardin/_index.html
+  file: content/fr/pages/lassociation/_index.html
 - title: Soutenir
   target: "/soutenir/"
   kind: page
   children: []
+  file: content/fr/pages/soutenir/_index.html
 
