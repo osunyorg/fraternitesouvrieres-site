@@ -2,6 +2,11 @@
 
 baseURL: https://site.fraternitesouvrieres.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 63ed5aed-9c17-46ac-984e-f203c69e653e
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
