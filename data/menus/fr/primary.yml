@@ -80,7 +80,7 @@ items:
   file: content/fr/pages/soutenir/_index.html
 - title: Agenda
   slug: agenda
-  target: "/"
+  target: "/agenda/"
   kind: page
   new_tab: false
   children: []
@@ -89,7 +89,7 @@ items:
   file: content/fr/events/_index.html
 - title: Équipe
   slug: equipe
-  target: "/"
+  target: "/equipe/"
   kind: page
   new_tab: false
   children: []
@@ -98,7 +98,7 @@ items:
   file: content/fr/persons/_index.html
 - title: Organisations
   slug: organisations
-  target: "/"
+  target: "/organisations/"
   kind: page
   new_tab: false
   children: []
