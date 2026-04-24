@@ -15,14 +15,14 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/actualites/2024-10-13-octobre-2024/index.html"
+from = "/actualites/2024-10-13-octobre-2024/"
 to = "/actualites/2024-10-13-cours-10-2024/"
 
 [[redirects]]
-from = "/presentation/index.html"
+from = "/presentation/"
 to = "/lassociation/presentation/"
 
 [[redirects]]
-from = "/lassociation/cours-de-jardinage-biologique-gratuits/index.html"
+from = "/lassociation/cours-de-jardinage-biologique-gratuits/"
 to = "/lassociation/cours-de-jardinage-biologique/"
 
