@@ -1,5 +1,5 @@
 theme: osuny
-merge: _deep
+_merge: deep
 enableRobotsTXT: true
 removePathAccents: true
 pagination:
